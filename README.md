@@ -1,1 +1,1 @@
-# Photo-lasticim-trie
+# Photoelasticimetrie
